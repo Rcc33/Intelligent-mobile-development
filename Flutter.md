@@ -22,6 +22,9 @@ To install these:
 4. Click Yes when prompted to install the Dart plugin.
 5. Click Restart when prompted.
 
+## Test drive
+See the link clearly: [https://flutter.dev/docs/get-started/test-drive?tab=androidstudio](https://flutter.dev/docs/get-started/test-drive?tab=androidstudio)
+
 ## Create your app
 1. Open the IDE and select Start a new Flutter project.
 2. Select Flutter Application as the project type. Then click Next.
@@ -34,3 +37,4 @@ To install these:
 You can learn something more about Flutter: [https://flutter.dev/docs/get-started/learn-more](https://flutter.dev/docs/get-started/learn-more)
 
 # Use Flutter
+Waiting for update……
